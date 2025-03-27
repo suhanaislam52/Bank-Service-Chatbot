@@ -8,6 +8,9 @@ from langchain_ollama.chat_models import ChatOllama
 from langchain_core.runnables import RunnablePassthrough
 from langchain.retrievers.multi_query import MultiQueryRetriever
 
+# Apply page name
+st.set_page_config(page_title="Bank Service Chatbot", page_icon="🏦", layout="centered")
+
 # Path to the stored Chroma database
 db_dir = "./chroma_db"
 
@@ -140,8 +143,7 @@ custom_css = """
     }
 </style>
 """
-# Apply page name
-st.set_page_config(page_title="Bank Service Chatbot", page_icon="🏦", layout="centered")
+
 
 # Apply custom CSS
 st.markdown(custom_css, unsafe_allow_html=True)
