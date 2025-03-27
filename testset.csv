@@ -1,11 +1,15 @@
 question,expected_answer
-"What is the purpose of the EQM Machine introduced by The City Bank Limited?","The EQM Machine is an Enterprise Quality Management System that optimizes quality, ensures compliance, and reduces costs and risks for clients in regulated industries. It was introduced at the Gulshan Avenue Branch to help streamline services and improve efficiency."
-"How does the EQM Machine help with managing customer queues?","The EQM Machine helps eliminate long queues in front of the teller service area. Customers can take a token, which allows them to track their wait time and perform other tasks while they wait."
-"What benefits does the EQM Machine provide in terms of customer wait time?","By taking a token from the EQM Machine, customers can know how much time it will take for their number to be called. This allows them to plan other activities in the meantime, saving time and reducing wait-related frustration."
-"How does the EQM Machine help in managing customer behavior during long waits?","The EQM Machine helps manage customer behavior by providing a token that lets customers know exactly when it's their turn. This reduces frustration and the likelihood of customers becoming violent due to long waiting times."
-"What is the role of the intern in managing the EQM Machine at The City Bank Limited?","An intern is responsible for guiding customers to the correct service area and issuing the appropriate token based on the service the customer requires."
-"How does the EQM Machine assign tokens to customers?","The EQM Machine assigns tokens to customers based on the type of service they require. This allows customers to wait for their turn in an organized manner and reduces confusion."
-"How does the EQM Machine provide flexibility to customers?","By allowing customers to take a token, the EQM Machine gives them an estimate of how long they will need to wait. This enables them to engage in other tasks while waiting, offering them flexibility and saving time."
-"How does the EQM Machine reduce violent behavior among customers?","The EQM Machine helps prevent violent behavior by providing a clear estimate of the wait time. Customers are informed of when it will be their turn, reducing frustration caused by uncertainty and long waiting times."
-"What is the intern's responsibility when a customer enters the bank?","The intern's responsibility is to guide the customer to the correct service area and issue the appropriate token based on the service they require."
-"What convenience does the EQM Machine offer to customers at The City Bank Limited?","The EQM Machine provides convenience by helping customers avoid long queues and giving them a token to track their wait time, allowing them to do other tasks while they wait."
+"Test case 1:What is this pdf actually about?","This report focuses  about the wide consumer expectation, perception and its implementation possibility for the CBL to overcome the all kinds of customer objections for the service failure and weakness.First part of this report is based on the introduction which includes topics like origin, objective, background, methodology, limitation of the study.Next part is basically about the tasks done  during the internship."
+
+"Test Case 2:Describe the role of Customer Service in banking.","Customer service the process of ensuring customer satisfaction with a product or service. Often, customer service takes place while performing a transaction for the customer, such as making a sale or returning an item. In Banks customer service includes processing cheque, cash and direct debit payments and withdrawals, setting up and maintaining customers‟ accounts, dealing with enquiries, promoting and selling financial products and services to customers, using a computerized system to update account details, general administration tasks such as maintaining records, opening post and sending letters to customers, operating UK and overseas currency tills, helping customers with loan and mortgage applications."
+
+"Test Case 3:What is the internship report mainly about?","This internship report contains the passing study on “The City Bank Ltd” during three months internship. The report is distributed in many parts according to the constructions of supervisor of report."
+
+"Test Case 4:What are the  four distinct business divisions of City Bank?","The four distinct divisions of City Bank are :
+- Corporate & Investment Banking;  
+- Retail Banking (including Cards);  
+- SME Banking; &  
+- Treasury & Market Risks."
+
+"Test Case 5:What is the difference between using City Bank and online banking platforms?","Under a real-time online banking platform, these four business divisions are supported at the back by a robust service delivery or operations setup and also a smart IT Backbone. Such centralized business segment based business & operating model ensure specialized treatment and services to the bank's different customer segments."
+
