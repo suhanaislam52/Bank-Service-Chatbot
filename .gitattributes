@@ -1,0 +1,10 @@
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+Or filter=lfs diff=lfs merge=lfs -text
+of filter=lfs diff=lfs merge=lfs -text
+your filter=lfs diff=lfs merge=lfs -text
+video filter=lfs diff=lfs merge=lfs -text
+the filter=lfs diff=lfs merge=lfs -text
+extension filter=lfs diff=lfs merge=lfs -text
+file filter=lfs diff=lfs merge=lfs -text
