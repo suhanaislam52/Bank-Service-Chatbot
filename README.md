@@ -109,6 +109,7 @@ python automation_script.py
 
 
 ## Project Structure
+```bash
 Bank-Service-Chatbot/
 ├── actions.py               # Defines custom actions executed by the chatbot
 ├── chatbot.py               # Main script to initiate and run the chatbot
@@ -126,6 +127,7 @@ Bank-Service-Chatbot/
 ├── requirements.txt         # Lists all Python dependencies
 ├── Makefile                 # Contains commands for building and managing the project
 └── README.md                # Project documentation
+```
 
 
 ## Software Used
