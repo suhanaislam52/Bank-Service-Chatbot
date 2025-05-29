@@ -30,7 +30,7 @@ Finally, the Information Retrieval (IR) System (ChromaDB) is responsible for sto
 
 Below is the UI design of the chatbot.
 
-<img src="p3.PNG" alt="p3" width="900" />
+<img src="p3.PNG" alt="p3" width="750" />
 
 ## Features
 - <b>User Query:</b> User can pass any query and the bot will generate a reponse.
@@ -97,6 +97,17 @@ huggingface-cli login
 pip install streamlit
 ```
 
+6. Run the Chabot
+```bash
+streamlit run chatbot.py
+```
+
+7. Test the Automation Test Script
+```bash
+python automation_script.py
+```
+
+
 ## Project Structure
 Bank-Service-Chatbot/
 ├── actions.py               # Defines custom actions executed by the chatbot
@@ -131,7 +142,7 @@ The interaction between the user and the chatbot takes place through the Streaml
 
 The MultiQueryRetriever was used to handle multiple queries in order to improve the efficiency and accuracy of retrieving information from the PDF by considering multiple queries at once.
 
-<img src="p1.PNG" alt="p1" width="700" />
+<img src="p1.PNG" alt="p1" width="750" />
 
 ## License
 This project is licensed under the MIT License.See the LICENSE file for details.
